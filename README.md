@@ -31,9 +31,17 @@
 
   <!-- Snake Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
+## 🐍 My DevOps Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/abdullahshahid-devops/abdullahshahid-devops/output/github-snake.svg"
+    alt="GitHub contribution snake"
+    width="100%"
+  />
+</p>
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
