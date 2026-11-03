@@ -34,34 +34,26 @@
 
 ---
 
-<h2 align="center">🐍 THE CONTRIBUTION HUNTER</h2>
-
-<p align="center">
-  <strong>Every commit leaves a trail. Every contribution tells a story.</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB-CONTRIBUTIONS-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=for-the-badge&labelColor=0D1117" />
-</p>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/abdullahshahid-devops/abdullahshahid-devops/output/github-snake.svg"
-    alt="Animated GitHub contribution snake eating contribution squares"
-    width="100%"
+    src="https://img.shields.io/badge/⚡_DEVOPS-00CFFF?style=for-the-badge&labelColor=0B0F1A&color=00CFFF"
+    alt="DEVOPS"
+    height="65"
   />
 </p>
 
+<h1 align="center">
+  ⚡ DEVOPS ⚡
+</h1>
+
 <p align="center">
-  <em>⚡ Code. Commit. Contribute. Repeat.</em>
+  <strong>INNOVATE • AUTOMATE • DEPLOY • SCALE</strong>
 </p>
 
 <p align="center">
-  <sub>Building consistency, one contribution at a time.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=550&lines=Building+Reliable+Infrastructure;Automating+Cloud+Deployments;Engineering+Scalable+Solutions" alt="DevOps animation" />
 </p>
-
----
 
 
   
