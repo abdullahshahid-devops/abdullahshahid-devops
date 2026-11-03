@@ -32,16 +32,9 @@
   <!-- Snake Game Repo View -->
 
 
----
-
-
 <h1 align="center">
   ⚡ DEVOPS ⚡
 </h1>
-
-<p align="center">
-  <strong>INNOVATE • AUTOMATE • DEPLOY • SCALE</strong>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=550&lines=Building+Reliable+Infrastructure;Automating+Cloud+Deployments;Engineering+Scalable+Solutions" alt="DevOps animation" />
