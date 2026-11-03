@@ -36,10 +36,3 @@
   ⚡ DEVOPS ⚡
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=550&lines=Building+Reliable+Infrastructure;Automating+Cloud+Deployments;Engineering+Scalable+Solutions" alt="DevOps animation" />
-</p>
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
