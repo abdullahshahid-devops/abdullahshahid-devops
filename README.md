@@ -35,14 +35,6 @@
 ---
 
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/⚡_DEVOPS-00CFFF?style=for-the-badge&labelColor=0B0F1A&color=00CFFF"
-    alt="DEVOPS"
-    height="65"
-  />
-</p>
-
 <h1 align="center">
   ⚡ DEVOPS ⚡
 </h1>
