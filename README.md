@@ -32,15 +32,36 @@
   <!-- Snake Game Repo View -->
 
 
-## 🐍 My DevOps Contribution Snake
+---
+
+<h2 align="center">🐍 THE CONTRIBUTION HUNTER</h2>
+
+<p align="center">
+  <strong>Every commit leaves a trail. Every contribution tells a story.</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB-CONTRIBUTIONS-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=for-the-badge&labelColor=0D1117" />
+</p>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/abdullahshahid-devops/abdullahshahid-devops/output/github-snake.svg"
-    alt="GitHub contribution snake"
+    alt="Animated GitHub contribution snake eating contribution squares"
     width="100%"
   />
 </p>
+
+<p align="center">
+  <em>⚡ Code. Commit. Contribute. Repeat.</em>
+</p>
+
+<p align="center">
+  <sub>Building consistency, one contribution at a time.</sub>
+</p>
+
+---
 
 
   
